@@ -40,6 +40,13 @@ img {
     user-select: none;
 }
 
+#previews {
+    height: fit-content;
+    padding: 100px 50px;
+    border: 1px solid black;
+    margin-bottom: 100px;
+}
+
 #previews>div {
     box-sizing: border-box;
     height: 240px;
